@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: linear-gradient(135deg, #0b2239, #1d4d7a);
+  color: #fdfdfd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.container {
+  max-width: 640px;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  letter-spacing: 1px;
+}
+
+p {
+  margin-top: 1.5rem;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  opacity: 0.9;
+}
