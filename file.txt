@@ -2,3 +2,8 @@ practicing git
 
 Estoy aprendiendo a usar git para el control de versiones y la colaboración en proyectos de desarrollo de software. 
 Quiero mejorar mis habilidades en el uso de comandos git, ramas, fusiones y resolución de conflictos.
+
+HE CREADO LOS SIGUIENTES ARCHIVOS:
+
+- index.html
+- styles.css 
